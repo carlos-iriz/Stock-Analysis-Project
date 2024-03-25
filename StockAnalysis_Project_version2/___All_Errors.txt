@@ -1,0 +1,5 @@
+CorrelationId: 8646de0a-5602-4f31-b904-2da8cf1c7c23
+UTC DateTime: 03/23/2024 02:56:30
+
+The following file/folder has not been downloaded
+0. COP4365_001_StockAnalysis_Project_IrizarryCastro/.vs/COP4365_001_StockAnalysis_Project_IrizarryCastro
